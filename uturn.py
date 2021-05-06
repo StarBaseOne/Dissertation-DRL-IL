@@ -21,7 +21,7 @@ CnnNet = {
 }
 
 params = {
-    "environment": "merge-v0",
+    "environment": "u-turn-v0",
     "model_name": "TRPO",
     "train_steps": 200000,
     "timesteps_per_batch": 512,
