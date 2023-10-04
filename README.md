@@ -6,7 +6,7 @@
 ## About
 
 * Dissertation for Master of Science in Artificial Intelligence from University of Limerick submitted June 2021
-* Publication can be accessed here - []
+* Publication: https://www.academia.edu/107587654/Deep_Reinforcement_Learning_and_Imitation_Learning_for_Autonomous_Driving_in_a_Minimalist_Environment 
 
 Autonomous driving technology has seen significant advancements in recent years, but fully autonomous self-driving cars are yet to be deployed at scale. This study delves into the world of deep reinforcement learning and imitation learning to evaluate their effectiveness in minimalist autonomous driving environments.
 
