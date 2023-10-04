@@ -52,4 +52,4 @@ This project's diagrams are available under the [project's license](/LICENSE), u
 Feel free to reach out if you have any questions or need further information about the diagrams.
 
 ## Citation
-If you wish to use these diagrams in your body of work/research, please cite.
+If you wish to use these diagrams in your body of work/research, please see parent ReadMe in this repository
