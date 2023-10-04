@@ -59,14 +59,22 @@ Our objectives include:
 * Stable Baselines - [Link ](https://github.com/hill-a/stable-baselines)
 * Stable Baselines 3 - [Link](https://github.com/DLR-RM/stable-baselines3)
 * Deep Data Driven Reinforcement Learning - [Link](https://github.com/takuseno/d3rlpy)
-*  Highway-env - [Link](https://github.com/Farama-Foundation/HighwayEnv)
+* Highway-env - [Link](https://github.com/Farama-Foundation/HighwayEnv)
 
 
 ## Citation
 
-If you find any images, diagrams, or content from this dissertation useful in your own work, please consider citing it. Here is the citation format:
+If you find any images, diagrams, or content from this dissertation useful in your own work, please consider citing it. 
 
-ADD HERE
-
+Here is the citation format:
+```bibtex
+@article{Hourigan2021,
+  author = {Hourigan, Brian},
+  title = {Deep Reinforcement Learning and Imitation Learning for Autonomous Driving in a Minimalist Environment},
+  year = {2021},
+  journal = {Academia.edu},
+  url = {https://www.academia.edu/107587654/Deep_Reinforcement_Learning_and_Imitation_Learning_for_Autonomous_Driving_in_a_Minimalist_Environment}
+}
+```
 
 
