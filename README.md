@@ -1,13 +1,14 @@
 
 
 # Deep Reinforcement Learning and Imitation Learning for Autonomous Driving in a Minimalist Environment
-- Dissertation for Master of Science in Artificial Intelligence - University of Limerick - June 2021
+
+
+## About
+
+* Dissertation for Master of Science in Artificial Intelligence from University of Limerick submitted June 2021
+* Publication can be accessed here - []
 
 Autonomous driving technology has seen significant advancements in recent years, but fully autonomous self-driving cars are yet to be deployed at scale. This study delves into the world of deep reinforcement learning and imitation learning to evaluate their effectiveness in minimalist autonomous driving environments.
-
-## Introduction
-
-Reinforcement learning has been a focal point in autonomous vehicle research, aiming to achieve safe and fully autonomous self-driving cars. However, despite technological breakthroughs, we still primarily see autonomous vehicles in controlled environments ("geofenced") like Waymo One or Tesla's autopilot driver assistance system. The levels of autonomy, ranging from 0 (none) to 5 (full), offer an iterative approach, with levels 1 to 3 being deployed to some extent in real-world scenarios.
 
 This study focuses on assessing various deep reinforcement learning and imitation learning techniques in a set of minimalist autonomous driving environments. These simulations mirror specific driving scenarios akin to the capabilities of systems like Tesla Autopilot. Scenarios include vehicle parking, highway navigation, intersection handling, hairpin turns, overtaking, merging, and summoning the vehicle while avoiding traffic.
 
@@ -21,19 +22,46 @@ Our objectives include:
 - Evaluating collision avoidance metrics.
 - Analyzing the agents' ability to generalize to unseen conditions.
 
-## Literature Review
+## Algorithms
+![image](https://github.com/hougiebear/Dissertation-DRL-IL/assets/22470422/9c3aeaa2-2fed-47f9-b1e5-88af78d48748)
 
-The literature review in this study covers several key aspects of autonomous vehicle research:
+**Online Reinforcement Learning Algorithms**
+| Long form Name | Short form Name | Iteration Method |
+|----------|----------|----------|----------|
+| Deep Q Network | DQN | Value | 
+| Quantile Regression Deep Q Network | QRDQN | Value |
+| Advantage Actor Critic | A2C | On-Policy | Online |
+| Trust Region Policy Optimization | TRPO | On-Policy |
+| Proximal Policy Optimization | PPO |  On-Policy |
+| Deep Deterministic Policy Gradient | DDPG |  Off-Policy & Value | 
+| Twin Delayed Deep Deterministic Policy Gradient | TD3 |  Off-Policy & Value | 
+| Soft Actor Critic | SAC |  Off-Policy & Value |
+| Truncated Quantile Critics | TQC |  Off-Policy & Value |
+| Hindsight Experience Replay | HER | Off-Policy & Value | 
 
-- The current state of autonomous vehicle research.
-- The application of deep reinforcement learning on realistic driving simulators.
-- Evaluation of deep reinforcement learning against imitation learning.
-- In-depth exploration of specific driving scenarios and tasks.
-- Safety mechanisms and collision avoidance in autonomous vehicles.
-- Experimentation techniques, including evaluation and metric gathering.
 
-By addressing these aspects, we aim to contribute valuable insights to the autonomous driving research community.
+**Offline Reinforcement Learning Algorithms**
+| Long form Name | Short form Name | Iteration Method | 
+| Conservative Q-Learning | CQL | Value | 
 
----
+**Imitation Learning Algorithms**
+| Long form Name | Short form Name | Iteration Method | 
+| Generative Adversarial Imitation Learning | GAIL | Off-Policy | 
 
-Feel free to expand or customize this README to include additional details, links to your research, or any other relevant information you'd like to share on your GitHub repository.
+
+## Libraries
+
+* Stable Baselines - Link 
+* Stable Baselines 3 - Link
+* Deep Data Driven Reinforment Learning - D3rlpy - Link
+*  Highway-env - Link
+
+## Hardware & Pre-Requisities 
+* Inst
+* install Stable Baselines
+* Install Stable Baselines 3
+
+
+
+
+
