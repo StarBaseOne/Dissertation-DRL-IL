@@ -76,5 +76,4 @@ Here is the citation format:
   url = {https://www.academia.edu/107587654/Deep_Reinforcement_Learning_and_Imitation_Learning_for_Autonomous_Driving_in_a_Minimalist_Environment}
 }
 ```
-
-
+You can use this BibTeX entry in your LaTeX document or reference management software to cite the paper accurately. Make sure to adjust the formatting or field names if your specific bibliography style requires variations.
