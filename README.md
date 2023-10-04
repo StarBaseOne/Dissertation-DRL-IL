@@ -26,8 +26,9 @@ Our objectives include:
 ![image](https://github.com/hougiebear/Dissertation-DRL-IL/assets/22470422/9c3aeaa2-2fed-47f9-b1e5-88af78d48748)
 
 **Online Reinforcement Learning Algorithms**
+
 | Long form Name | Short form Name | Iteration Method |
-|----------|----------|----------|----------|
+|----------|----------|----------|
 | Deep Q Network | DQN | Value | 
 | Quantile Regression Deep Q Network | QRDQN | Value |
 | Advantage Actor Critic | A2C | On-Policy | Online |
@@ -41,11 +42,15 @@ Our objectives include:
 
 
 **Offline Reinforcement Learning Algorithms**
+
 | Long form Name | Short form Name | Iteration Method | 
+|----------|----------|----------|
 | Conservative Q-Learning | CQL | Value | 
 
 **Imitation Learning Algorithms**
+
 | Long form Name | Short form Name | Iteration Method | 
+|----------|----------|----------|
 | Generative Adversarial Imitation Learning | GAIL | Off-Policy | 
 
 
