@@ -56,15 +56,10 @@ Our objectives include:
 
 ## Libraries
 
-* Stable Baselines - Link 
-* Stable Baselines 3 - Link
-* Deep Data Driven Reinforment Learning - D3rlpy - Link
-*  Highway-env - Link
-
-## Hardware & Pre-Requisities 
-* Inst
-* install Stable Baselines
-* Install Stable Baselines 3
+* Stable Baselines - [Link ](https://github.com/hill-a/stable-baselines)
+* Stable Baselines 3 - [Link](https://github.com/DLR-RM/stable-baselines3)
+* Deep Data Driven Reinforcement Learning - [Link](https://github.com/takuseno/d3rlpy)
+*  Highway-env - [Link](https://github.com/Farama-Foundation/HighwayEnv)
 
 
 ## Citation
