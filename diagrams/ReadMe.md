@@ -2,40 +2,7 @@
 
 ## Overview
 
-This README provides an overview of the diagrams used in this dissertation and their purposes.
-
-## Diagram Types
-
-
-### 1. **Architecture Diagram**
-
-- **Purpose**: The architecture diagram provides a high-level overview of the project's structure, including its major components and their interactions.
-- **File Name**: `architecture-diagram.png`
-- **Location**: `/diagrams`
-
-### 2. **Workflow Diagram**
-
-- **Purpose**: The workflow diagram illustrates the flow of processes or tasks within the project, helping to understand how different components work together.
-- **File Name**: `workflow-diagram.png`
-- **Location**: `/diagrams`
-
-### 3. **Data Flow Diagram (DFD)**
-
-- **Purpose**: DFDs are used to represent the flow of data within the project, including data sources, processes, data stores, and data destinations.
-- **File Name**: `data-flow-diagram.png`
-- **Location**: `/diagrams`
-
-### 4. **Entity-Relationship Diagram (ERD)**
-
-- **Purpose**: ERDs show the relationships between different entities in the project's data model, including tables, attributes, and their connections.
-- **File Name**: `entity-relationship-diagram.png`
-- **Location**: `/diagrams`
-
-### 5. **Sequence Diagram**
-
-- **Purpose**: Sequence diagrams depict the interactions between different components or actors in a particular scenario or use case.
-- **File Name**: `sequence-diagram.png`
-- **Location**: `/diagrams`
+This README provides an overview of the diagrams used in this dissertation. 
 
 ## How to Use the Diagrams
 
