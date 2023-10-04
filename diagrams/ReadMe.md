@@ -7,6 +7,7 @@ This README provides an overview of the diagrams used in this dissertation.
 ## How to Use the Diagrams
 
 - To view the diagrams, simply click on the corresponding file links above.
+- figure_2_5 and figure_2_10 are not my creations. You should check the citations in the dissertation for references.
 
 ## Contributing
 
