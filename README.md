@@ -67,6 +67,11 @@ Our objectives include:
 * Install Stable Baselines 3
 
 
+## Citation
+
+If you find any images, diagrams, or content from this dissertation useful in your own work, please consider citing it. Here is the citation format:
+
+ADD HERE
 
 
 
